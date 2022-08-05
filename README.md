@@ -38,3 +38,5 @@ Meesho is an indian e-commerce company, We tried core functionalities of Meesho 
 ```
 
 Now Visit  [localhost:3000](http://localhost:3000)
+![Screenshot from 2022-08-05 22-47-55](https://user-images.githubusercontent.com/94021305/183129373-2c3c4321-32d5-482d-b0c2-993820501d5d.png)
+
